@@ -1,6 +1,6 @@
 num = 4567
 
-# To print each digit
+# To print each digit number 4567
 
 print("Alafim digit is: " + str(num//1000))
 print("Meot digit is: " + str((num%1000)//100))
