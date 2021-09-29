@@ -1,4 +1,5 @@
 # This task is to get as an input list, calculate the cost and print the total amount as an integer.
+
 print("Now we will calculate the price of your groceries list:\n\nPrices:\n----------\nTomato= 3 NIS\nCucumber = 2 NIS\nCola= 5 NIS\nChicken=20 NIS per KG\n")
 
 tomato = input("Please enter how many tomatoes do you want: ")
