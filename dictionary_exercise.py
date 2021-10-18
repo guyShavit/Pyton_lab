@@ -12,3 +12,4 @@ dict1.update({"yoel": sum})
 print(dict1)
 print("the number of entries in the dictionary: " + str(len(dict1)))
 print("guy" in dict1)
+
