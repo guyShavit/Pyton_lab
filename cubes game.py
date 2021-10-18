@@ -33,7 +33,6 @@ for i in range(money//3):
     elif cube1 != cube2 and cube1 == 1:
         summary += 20
     else:
-
         continue
 print("\nyou won " + str(summary) + " NIS!")
 
